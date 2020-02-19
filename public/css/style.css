@@ -1,0 +1,15 @@
+.readDot {
+    height: 15px;
+    width: 15px;
+    background-color: rgb(233, 39, 39);
+    border-radius: 50%;
+    display: inline-block;
+  }
+
+  .dot {
+    height: 15px;
+    width: 15px;
+    background-color: rgb(48, 218, 33);
+    border-radius: 50%;
+    display: inline-block;
+  }

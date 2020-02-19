@@ -1,0 +1,18 @@
+body {
+  line-height: 1.7;
+  color:#1c313a;
+  font-weight: 400;
+  font-size: 1rem; 
+  font-family: 'El Messiri', sans-serif;
+  direction: rtl;
+  text-align:right !important ;
+}
+
+#nav{
+
+  text-align:right !important ;  
+}
+ 
+
+
+

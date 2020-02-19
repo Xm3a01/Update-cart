@@ -1,0 +1,21 @@
+[08-Feb-2020 13:36:21 UTC] PHP Warning:  require(/home/daam/store.daam.sd/../vendor/autoload.php): failed to open stream: No such file or directory in /home/daam/store.daam.sd/index.php on line 24
+[08-Feb-2020 13:36:21 UTC] PHP Warning:  require(/home/daam/store.daam.sd/../vendor/autoload.php): failed to open stream: No such file or directory in /home/daam/store.daam.sd/index.php on line 24
+[08-Feb-2020 13:36:21 UTC] PHP Fatal error:  require(): Failed opening required '/home/daam/store.daam.sd/../vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/daam/store.daam.sd/index.php on line 24
+[08-Feb-2020 13:36:34 UTC] PHP Warning:  require(/home/daam/store.daam.sd/../vendor/autoload.php): failed to open stream: No such file or directory in /home/daam/store.daam.sd/index.php on line 24
+[08-Feb-2020 13:36:34 UTC] PHP Warning:  require(/home/daam/store.daam.sd/../vendor/autoload.php): failed to open stream: No such file or directory in /home/daam/store.daam.sd/index.php on line 24
+[08-Feb-2020 13:36:34 UTC] PHP Fatal error:  require(): Failed opening required '/home/daam/store.daam.sd/../vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/daam/store.daam.sd/index.php on line 24
+[08-Feb-2020 13:37:33 UTC] PHP Warning:  require(/home/daam/store.daam.sd./vendor/autoload.php): failed to open stream: No such file or directory in /home/daam/store.daam.sd/index.php on line 24
+[08-Feb-2020 13:37:33 UTC] PHP Warning:  require(/home/daam/store.daam.sd./vendor/autoload.php): failed to open stream: No such file or directory in /home/daam/store.daam.sd/index.php on line 24
+[08-Feb-2020 13:37:33 UTC] PHP Fatal error:  require(): Failed opening required '/home/daam/store.daam.sd./vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/daam/store.daam.sd/index.php on line 24
+[08-Feb-2020 13:37:38 UTC] PHP Warning:  require(/home/daam/store.daam.sd./vendor/autoload.php): failed to open stream: No such file or directory in /home/daam/store.daam.sd/index.php on line 24
+[08-Feb-2020 13:37:38 UTC] PHP Warning:  require(/home/daam/store.daam.sd./vendor/autoload.php): failed to open stream: No such file or directory in /home/daam/store.daam.sd/index.php on line 24
+[08-Feb-2020 13:37:38 UTC] PHP Fatal error:  require(): Failed opening required '/home/daam/store.daam.sd./vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/daam/store.daam.sd/index.php on line 24
+[08-Feb-2020 13:50:06 UTC] PHP Warning:  require(/home/daam/store.daam.sd./vendor/autoload.php): failed to open stream: No such file or directory in /home/daam/store.daam.sd/index.php on line 24
+[08-Feb-2020 13:50:06 UTC] PHP Warning:  require(/home/daam/store.daam.sd./vendor/autoload.php): failed to open stream: No such file or directory in /home/daam/store.daam.sd/index.php on line 24
+[08-Feb-2020 13:50:06 UTC] PHP Fatal error:  require(): Failed opening required '/home/daam/store.daam.sd./vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/daam/store.daam.sd/index.php on line 24
+[08-Feb-2020 13:52:38 UTC] PHP Warning:  require(/home/daam/store.daam.sd./vendor/autoload.php): failed to open stream: No such file or directory in /home/daam/store.daam.sd/index.php on line 24
+[08-Feb-2020 13:52:38 UTC] PHP Warning:  require(/home/daam/store.daam.sd./vendor/autoload.php): failed to open stream: No such file or directory in /home/daam/store.daam.sd/index.php on line 24
+[08-Feb-2020 13:52:38 UTC] PHP Fatal error:  require(): Failed opening required '/home/daam/store.daam.sd./vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/daam/store.daam.sd/index.php on line 24
+[08-Feb-2020 13:52:40 UTC] PHP Warning:  require(/home/daam/store.daam.sd./vendor/autoload.php): failed to open stream: No such file or directory in /home/daam/store.daam.sd/index.php on line 24
+[08-Feb-2020 13:52:40 UTC] PHP Warning:  require(/home/daam/store.daam.sd./vendor/autoload.php): failed to open stream: No such file or directory in /home/daam/store.daam.sd/index.php on line 24
+[08-Feb-2020 13:52:40 UTC] PHP Fatal error:  require(): Failed opening required '/home/daam/store.daam.sd./vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/daam/store.daam.sd/index.php on line 24
