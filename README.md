@@ -8,18 +8,18 @@ Support website for e-commerce for electronic and security element
 
 ### Prerequisites
 
-Go to project download or clone folder open it in terminal or cmd and run:
-
-```
-1- composer install
-```
-
-### Installing
-
 You must have composer if you don't have it goto the link down  to install it
 
 ```
 https://getcomposer.org/download/
+```
+
+### Installing
+
+Go to project download or clone folder open it in terminal or cmd and run:
+
+```
+1- composer install
 ```
 
 Then copy file  
