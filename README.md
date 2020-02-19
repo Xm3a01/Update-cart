@@ -36,6 +36,11 @@ and Then Run:
 php artisan key:generate
 ```
 
+Image show Run:
+```
+php artisan storage:link
+```
+
 * M3A
 
 
