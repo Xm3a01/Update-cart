@@ -16,7 +16,13 @@ Go to project download or clone folder open it in terminal or cmd and run:
 
 ### Installing
 
-copy file  
+You must have composer if you don't have it goto the link down  to install it
+
+```
+https://getcomposer.org/download/
+```
+
+Then copy file  
 ```
 .envExample 
 ```
