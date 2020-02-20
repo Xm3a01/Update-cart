@@ -1,5 +1,6 @@
 <?php
 
+use App\Item;
 use App\Category;
 
 
@@ -14,6 +15,7 @@ Route::group(['prefix' => 'dashboard' , 'middleware' => 'auth'], function(){
     Route::resource('/categories','Dashboard\CategoryController');
     Route::resource('/subcategories','Dashboard\Sub_CategoryController');
     Route::resource('ads','Dashboard\AdsController');
+    Route::resource('descriptions','Dashboard\DescriptionController');
 
 });
 
@@ -30,7 +32,11 @@ Route::get('/cart/delete','Website\CartController@delete')->name('cart.delete');
 Route::post('/cart/update/{id}','Website\CartController@update')->name('cart.update');
 
 
+Route::get('des/{id}', function($id) {
+    $item = Item::findOrFail($id);
 
+    return view('test' , compact('item'));
+});
 
 //Localization Lang changing
 Route::get('/locale/{locale}', 'LocaleController@index')->name('lang');

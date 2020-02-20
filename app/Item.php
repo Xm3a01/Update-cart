@@ -18,4 +18,9 @@ class Item extends Model
     {
         return $this->belongsTo(SubCategory::class);
     }
+
+    public function descriptions()
+    {
+        return $this->hasMany(Description::class);
+    }
 }

@@ -50,6 +50,13 @@
             </li>
 
             <li class="nav-item">
+                <a href="{{route('descriptions.index')}}" class="nav-link nav-toggle">
+                    <i class="icon-bulb"></i>
+                    <span class="title">الوصف الدقيق للمنتج</span>
+                </a>
+            </li>
+
+            <li class="nav-item">
                 <a href="{{route('ads.index')}}" class="nav-link nav-toggle">
                     <i class="icon-bulb"></i>
                     <span class="title">الاعلانات</span>

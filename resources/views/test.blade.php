@@ -1,4 +1,4 @@
-
+{{-- 
     <!DOCTYPE html>
     <html lang="en">
     <head>
@@ -38,7 +38,7 @@
          }
        </script>
     </body>
-    </html>
+    </html> --}}
 {{-- @endforeach
 <!DOCTYPE html>
 <html lang="en">
@@ -57,4 +57,10 @@
    <script src="{{asset('js/app.js')}}"></script>
 </body>
 </html> --}}
+
+{{$item->ar_item_name}}<br><hr>
+
+@foreach ($item->descriptions as $des)
+   {{$des->ar_details}}.** <br>
+@endforeach
 
